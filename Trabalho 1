@@ -72,6 +72,7 @@ sudo -u www-data sed -i 's/password_here/<YourPassword>/' /srv/www/wordpress/wp-
 
 sudo -u www-data nano /srv/www/wordpress/wp-config.php
 
+*****deletar as linhas
 define( 'AUTH_KEY',         'put your unique phrase here' );
 define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
 define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
