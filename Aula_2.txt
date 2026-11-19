@@ -1,0 +1,7 @@
+Acessando o wp-admin: https://www.youtube.com/watch?v=cYEgm-9Xl24
+
+Criar um (ou dois em caso de dupla) currículos.
+Criando Paginas e posts: https://www.youtube.com/watch?v=o913OmmkzGA
+Exemplos de Currículo: https://www.canva.com/pt_br/curriculos/modelos/
+
+Instalar Temas : https://www.hostinger.com/br/tutoriais/como-instalar-temas-do-wordpress/
